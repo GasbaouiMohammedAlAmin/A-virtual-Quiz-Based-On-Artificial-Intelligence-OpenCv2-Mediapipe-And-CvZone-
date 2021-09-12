@@ -5,4 +5,5 @@ the project developed using python language and it works with these libraries :
 - mediapipe to install it put this command (pip install mediapipe)
 - opencv to install it put this command (pip install opencv-python)
 - cvzone to install it put this command (pip install cvzone)
+
 demonstration demo video : https://www.youtube.com/watch?v=fFI9kKQso-0https://www.youtube.com/watch?v=fFI9kKQso-0
