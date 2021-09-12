@@ -1,0 +1,1 @@
+# A-virtual-Quiz-Based-On-Artificial-Intelligence-OpenCv2-Mediapipe-And-CvZone-
