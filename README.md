@@ -7,3 +7,7 @@ the project developed using python language and it works with these libraries :
 - cvzone to install it put this command (pip install cvzone)
 
 demonstration demo video : https://www.youtube.com/watch?v=fFI9kKQso-0https://www.youtube.com/watch?v=fFI9kKQso-0
+# Screenshot
+![](screenshot.PNG)
+
+# A details Video Explanation
