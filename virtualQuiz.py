@@ -81,3 +81,5 @@ while True:
     img,_=cvzone.putTextRect(img, f'{round((questNumber/totalQuest)*100)}%', [500,430],1,2,offset=15)         
     cv2.imshow("img", img)
     cv2.waitKey(1);
+    if(cv2.waitKey(1) & 0xFF== ord('q')):
+      break
